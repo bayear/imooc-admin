@@ -15,7 +15,7 @@ export default {
     HelloWorld
   },
   created() {
-    console.log('created')
+    console.log('created1')
   }
 }
 </script>
