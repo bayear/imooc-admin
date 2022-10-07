@@ -15,7 +15,7 @@ export default {
     HelloWorld
   },
   created() {
-    console.log('created123456')
+    console.log('created123456111111111111111111111111111')
   }
 }
 </script>
